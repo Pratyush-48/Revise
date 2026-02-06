@@ -20,11 +20,11 @@ public:
     }
     int minRemoval(vector<int>& nums, int k) {
         int n = nums.size();
-        vector<int>ans(n);
         sort(nums.begin(),nums.end());
+        int result = INT_MAX;
         for(int i=0;i<n;i++){
-            ans[i] = n-bs(i,nums,k)+i-1;
+            result = min(result,n-bs(i,nums,k)+i-1);
         }
-        return *min_element(ans.begin(),ans.end());
+        return result;
     }
 };
