@@ -166,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Pratyush-48/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [1517-find-users-with-valid-e-mails](https://github.com/Pratyush-48/Leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 <!---LeetCode Topics End-->
