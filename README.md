@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Pratyush-48/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0596-classes-with-at-least-5-students](https://github.com/Pratyush-48/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/Pratyush-48/Leetcode/tree/master/0619-biggest-single-number) |
+| [0626-exchange-seats](https://github.com/Pratyush-48/Leetcode/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/Pratyush-48/Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Pratyush-48/Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/Pratyush-48/Leetcode/tree/master/1174-immediate-food-delivery-ii) |
