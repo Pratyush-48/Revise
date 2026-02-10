@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Pratyush-48/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Pratyush-48/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0596-classes-with-at-least-5-students](https://github.com/Pratyush-48/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Pratyush-48/Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/Pratyush-48/Leetcode/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/Pratyush-48/Leetcode/tree/master/1193-monthly-transactions-i) |
