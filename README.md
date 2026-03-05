@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Pratyush-48/Leetcode/tree/master/0146-lru-cache) |
 | [0731-my-calendar-ii](https://github.com/Pratyush-48/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Pratyush-48/Leetcode/tree/master/0732-my-calendar-iii) |
 ## Segment Tree
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Pratyush-48/Leetcode/tree/master/0146-lru-cache) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pratyush-48/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1943-describe-the-painting](https://github.com/Pratyush-48/Leetcode/tree/master/1943-describe-the-painting) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Pratyush-48/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pratyush-48/Leetcode/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/Pratyush-48/Leetcode/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -254,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pratyush-48/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Pratyush-48/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
