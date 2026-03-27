@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Pratyush-48/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Pratyush-48/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2906-construct-product-matrix](https://github.com/Pratyush-48/Leetcode/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pratyush-48/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Pratyush-48/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Pratyush-48/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Pratyush-48/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Pratyush-48/Leetcode/tree/master/1094-car-pooling) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Pratyush-48/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Pratyush-48/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pratyush-48/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/Pratyush-48/Leetcode/tree/master/3379-transformed-array) |
 ## Enumeration
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Pratyush-48/Leetcode/tree/master/0002-add-two-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Pratyush-48/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Pratyush-48/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pratyush-48/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pratyush-48/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Recursion
 |  |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pratyush-48/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2906-construct-product-matrix](https://github.com/Pratyush-48/Leetcode/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pratyush-48/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Pratyush-48/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pratyush-48/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Pratyush-48/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
