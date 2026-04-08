@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/Pratyush-48/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Pratyush-48/Leetcode/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Pratyush-48/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Pratyush-48/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Pratyush-48/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/Pratyush-48/Leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pratyush-48/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/Pratyush-48/Leetcode/tree/master/3379-transformed-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Pratyush-48/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Pratyush-48/Leetcode/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/Pratyush-48/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Pratyush-48/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Pratyush-48/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
 |  |
