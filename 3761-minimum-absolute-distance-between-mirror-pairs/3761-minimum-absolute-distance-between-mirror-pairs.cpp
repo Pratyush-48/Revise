@@ -1,13 +1,14 @@
 class Solution {
 public:
     int rev(int num){
-        string m = to_string(num);
+        //string m = to_string(num);
         int res = 0;
-        while(!m.empty()){
-            char b = m.back();
-            m.pop_back();
+        while(num){
+            //char b = m.back();
+           // m.pop_back();
             res = res * 10;
-            res += (b-'0');
+            res += (num%10);
+            num /= 10;
         }
         return res;
     }
