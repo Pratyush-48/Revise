@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Pratyush-48/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Pratyush-48/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2463-minimum-total-distance-traveled](https://github.com/Pratyush-48/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
+| [2615-sum-of-distances](https://github.com/Pratyush-48/Leetcode/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/Pratyush-48/Leetcode/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/Pratyush-48/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pratyush-48/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/Pratyush-48/Leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1854-maximum-population-year](https://github.com/Pratyush-48/Leetcode/tree/master/1854-maximum-population-year) |
 | [1943-describe-the-painting](https://github.com/Pratyush-48/Leetcode/tree/master/1943-describe-the-painting) |
+| [2615-sum-of-distances](https://github.com/Pratyush-48/Leetcode/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/Pratyush-48/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Pratyush-48/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pratyush-48/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pratyush-48/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1943-describe-the-painting](https://github.com/Pratyush-48/Leetcode/tree/master/1943-describe-the-painting) |
 | [1980-find-unique-binary-string](https://github.com/Pratyush-48/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2615-sum-of-distances](https://github.com/Pratyush-48/Leetcode/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pratyush-48/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Pratyush-48/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Pratyush-48/Leetcode/tree/master/3488-closest-equal-element-queries) |
