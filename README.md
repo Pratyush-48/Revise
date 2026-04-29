@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0087-scramble-string](https://github.com/Pratyush-48/Leetcode/tree/master/0087-scramble-string) |
 | [0657-robot-return-to-origin](https://github.com/Pratyush-48/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Pratyush-48/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Pratyush-48/Leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0087-scramble-string](https://github.com/Pratyush-48/Leetcode/tree/master/0087-scramble-string) |
 | [0198-house-robber](https://github.com/Pratyush-48/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Pratyush-48/Leetcode/tree/master/0322-coin-change) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Pratyush-48/Leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
