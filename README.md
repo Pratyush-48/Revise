@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Pratyush-48/Leetcode/tree/master/0056-merge-intervals) |
 | [0198-house-robber](https://github.com/Pratyush-48/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Pratyush-48/Leetcode/tree/master/0322-coin-change) |
+| [0396-rotate-function](https://github.com/Pratyush-48/Leetcode/tree/master/0396-rotate-function) |
 | [0731-my-calendar-ii](https://github.com/Pratyush-48/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0874-walking-robot-simulation](https://github.com/Pratyush-48/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1094-car-pooling](https://github.com/Pratyush-48/Leetcode/tree/master/1094-car-pooling) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Pratyush-48/Leetcode/tree/master/0087-scramble-string) |
 | [0198-house-robber](https://github.com/Pratyush-48/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Pratyush-48/Leetcode/tree/master/0322-coin-change) |
+| [0396-rotate-function](https://github.com/Pratyush-48/Leetcode/tree/master/0396-rotate-function) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Pratyush-48/Leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1402-reducing-dishes](https://github.com/Pratyush-48/Leetcode/tree/master/1402-reducing-dishes) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pratyush-48/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pratyush-48/Leetcode/tree/master/0002-add-two-numbers) |
+| [0396-rotate-function](https://github.com/Pratyush-48/Leetcode/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Pratyush-48/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Pratyush-48/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pratyush-48/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
