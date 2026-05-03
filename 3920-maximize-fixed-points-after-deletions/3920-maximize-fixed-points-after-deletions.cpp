@@ -19,9 +19,6 @@ public:
                 *t = num;
             }
         }
-        for(auto &it:lis){
-            cout<<it<<" ";
-        }
         return lis.size();
     }
 };
