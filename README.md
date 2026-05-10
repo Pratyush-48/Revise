@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Pratyush-48/Leetcode/tree/master/0056-merge-intervals) |
 | [0198-house-robber](https://github.com/Pratyush-48/Leetcode/tree/master/0198-house-robber) |
+| [0238-product-of-array-except-self](https://github.com/Pratyush-48/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/Pratyush-48/Leetcode/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/Pratyush-48/Leetcode/tree/master/0396-rotate-function) |
 | [0731-my-calendar-ii](https://github.com/Pratyush-48/Leetcode/tree/master/0731-my-calendar-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Pratyush-48/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0731-my-calendar-ii](https://github.com/Pratyush-48/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Pratyush-48/Leetcode/tree/master/0732-my-calendar-iii) |
 | [1094-car-pooling](https://github.com/Pratyush-48/Leetcode/tree/master/1094-car-pooling) |
