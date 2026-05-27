@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Pratyush-48/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/Pratyush-48/Leetcode/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/Pratyush-48/Leetcode/tree/master/0396-rotate-function) |
+| [0427-construct-quad-tree](https://github.com/Pratyush-48/Leetcode/tree/master/0427-construct-quad-tree) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Pratyush-48/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0731-my-calendar-ii](https://github.com/Pratyush-48/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0874-walking-robot-simulation](https://github.com/Pratyush-48/Leetcode/tree/master/0874-walking-robot-simulation) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Pratyush-48/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0427-construct-quad-tree](https://github.com/Pratyush-48/Leetcode/tree/master/0427-construct-quad-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pratyush-48/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/Pratyush-48/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Pratyush-48/Leetcode/tree/master/0190-reverse-bits) |
+| [0427-construct-quad-tree](https://github.com/Pratyush-48/Leetcode/tree/master/0427-construct-quad-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Pratyush-48/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Pratyush-48/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Pratyush-48/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0427-construct-quad-tree](https://github.com/Pratyush-48/Leetcode/tree/master/0427-construct-quad-tree) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pratyush-48/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2906-construct-product-matrix](https://github.com/Pratyush-48/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pratyush-48/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
