@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/Pratyush-48/Leetcode/tree/master/1306-jump-game-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Pratyush-48/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1402-reducing-dishes](https://github.com/Pratyush-48/Leetcode/tree/master/1402-reducing-dishes) |
+| [1575-count-all-possible-routes](https://github.com/Pratyush-48/Leetcode/tree/master/1575-count-all-possible-routes) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pratyush-48/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Pratyush-48/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1854-maximum-population-year](https://github.com/Pratyush-48/Leetcode/tree/master/1854-maximum-population-year) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1125-smallest-sufficient-team](https://github.com/Pratyush-48/Leetcode/tree/master/1125-smallest-sufficient-team) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Pratyush-48/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1402-reducing-dishes](https://github.com/Pratyush-48/Leetcode/tree/master/1402-reducing-dishes) |
+| [1575-count-all-possible-routes](https://github.com/Pratyush-48/Leetcode/tree/master/1575-count-all-possible-routes) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pratyush-48/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Pratyush-48/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2140-solving-questions-with-brainpower](https://github.com/Pratyush-48/Leetcode/tree/master/2140-solving-questions-with-brainpower) |
@@ -465,4 +467,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Pratyush-48/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1575-count-all-possible-routes](https://github.com/Pratyush-48/Leetcode/tree/master/1575-count-all-possible-routes) |
 <!---LeetCode Topics End-->
