@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Pratyush-48/Leetcode/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/Pratyush-48/Leetcode/tree/master/0396-rotate-function) |
 | [0427-construct-quad-tree](https://github.com/Pratyush-48/Leetcode/tree/master/0427-construct-quad-tree) |
+| [0502-ipo](https://github.com/Pratyush-48/Leetcode/tree/master/0502-ipo) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Pratyush-48/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0731-my-calendar-ii](https://github.com/Pratyush-48/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0874-walking-robot-simulation](https://github.com/Pratyush-48/Leetcode/tree/master/0874-walking-robot-simulation) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/Pratyush-48/Leetcode/tree/master/0502-ipo) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Pratyush-48/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/Pratyush-48/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1402-reducing-dishes](https://github.com/Pratyush-48/Leetcode/tree/master/1402-reducing-dishes) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Pratyush-48/Leetcode/tree/master/0056-merge-intervals) |
+| [0502-ipo](https://github.com/Pratyush-48/Leetcode/tree/master/0502-ipo) |
 | [1094-car-pooling](https://github.com/Pratyush-48/Leetcode/tree/master/1094-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/Pratyush-48/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Pratyush-48/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0502-ipo](https://github.com/Pratyush-48/Leetcode/tree/master/0502-ipo) |
 | [1094-car-pooling](https://github.com/Pratyush-48/Leetcode/tree/master/1094-car-pooling) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Pratyush-48/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pratyush-48/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
