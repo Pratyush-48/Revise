@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Pratyush-48/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2126-destroying-asteroids](https://github.com/Pratyush-48/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2140-solving-questions-with-brainpower](https://github.com/Pratyush-48/Leetcode/tree/master/2140-solving-questions-with-brainpower) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Pratyush-48/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/Pratyush-48/Leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2463-minimum-total-distance-traveled](https://github.com/Pratyush-48/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2615-sum-of-distances](https://github.com/Pratyush-48/Leetcode/tree/master/2615-sum-of-distances) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pratyush-48/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1943-describe-the-painting](https://github.com/Pratyush-48/Leetcode/tree/master/1943-describe-the-painting) |
 | [1980-find-unique-binary-string](https://github.com/Pratyush-48/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Pratyush-48/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2615-sum-of-distances](https://github.com/Pratyush-48/Leetcode/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Pratyush-48/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2707-extra-characters-in-a-string](https://github.com/Pratyush-48/Leetcode/tree/master/2707-extra-characters-in-a-string) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1376-time-needed-to-inform-all-employees](https://github.com/Pratyush-48/Leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Pratyush-48/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Pratyush-48/Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Pratyush-48/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pratyush-48/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/Pratyush-48/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Pratyush-48/Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Pratyush-48/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Divide and Conquer
 |  |
 | ------- |
