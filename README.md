@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Pratyush-48/Leetcode/tree/master/0402-remove-k-digits) |
 | [0502-ipo](https://github.com/Pratyush-48/Leetcode/tree/master/0502-ipo) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Pratyush-48/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/Pratyush-48/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/Pratyush-48/Leetcode/tree/master/0087-scramble-string) |
+| [0402-remove-k-digits](https://github.com/Pratyush-48/Leetcode/tree/master/0402-remove-k-digits) |
 | [0657-robot-return-to-origin](https://github.com/Pratyush-48/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Pratyush-48/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Pratyush-48/Leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Pratyush-48/Leetcode/tree/master/0402-remove-k-digits) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pratyush-48/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Pratyush-48/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2751-robot-collisions](https://github.com/Pratyush-48/Leetcode/tree/master/2751-robot-collisions) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Pratyush-48/Leetcode/tree/master/0402-remove-k-digits) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Pratyush-48/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Breadth-First Search
 |  |
