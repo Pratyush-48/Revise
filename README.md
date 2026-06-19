@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1575-count-all-possible-routes](https://github.com/Pratyush-48/Leetcode/tree/master/1575-count-all-possible-routes) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pratyush-48/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Pratyush-48/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1732-find-the-highest-altitude](https://github.com/Pratyush-48/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/Pratyush-48/Leetcode/tree/master/1854-maximum-population-year) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Pratyush-48/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pratyush-48/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/Pratyush-48/Leetcode/tree/master/0732-my-calendar-iii) |
 | [1094-car-pooling](https://github.com/Pratyush-48/Leetcode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Pratyush-48/Leetcode/tree/master/1109-corporate-flight-bookings) |
+| [1732-find-the-highest-altitude](https://github.com/Pratyush-48/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/Pratyush-48/Leetcode/tree/master/1854-maximum-population-year) |
 | [1943-describe-the-painting](https://github.com/Pratyush-48/Leetcode/tree/master/1943-describe-the-painting) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/Pratyush-48/Leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
