@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pratyush-48/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Pratyush-48/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1732-find-the-highest-altitude](https://github.com/Pratyush-48/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/Pratyush-48/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1854-maximum-population-year](https://github.com/Pratyush-48/Leetcode/tree/master/1854-maximum-population-year) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Pratyush-48/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pratyush-48/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Pratyush-48/Leetcode/tree/master/1402-reducing-dishes) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Pratyush-48/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pratyush-48/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1833-maximum-ice-cream-bars](https://github.com/Pratyush-48/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pratyush-48/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/Pratyush-48/Leetcode/tree/master/2126-destroying-asteroids) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pratyush-48/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Pratyush-48/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1402-reducing-dishes](https://github.com/Pratyush-48/Leetcode/tree/master/1402-reducing-dishes) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Pratyush-48/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/Pratyush-48/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pratyush-48/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1943-describe-the-painting](https://github.com/Pratyush-48/Leetcode/tree/master/1943-describe-the-painting) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Pratyush-48/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -518,4 +521,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Pratyush-48/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1575-count-all-possible-routes](https://github.com/Pratyush-48/Leetcode/tree/master/1575-count-all-possible-routes) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Pratyush-48/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
