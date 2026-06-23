@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Pratyush-48/Leetcode/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/Pratyush-48/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Pratyush-48/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Pratyush-48/Leetcode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/Pratyush-48/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Pratyush-48/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Pratyush-48/Leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pratyush-48/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0731-my-calendar-ii](https://github.com/Pratyush-48/Leetcode/tree/master/0731-my-calendar-ii) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Pratyush-48/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0427-construct-quad-tree](https://github.com/Pratyush-48/Leetcode/tree/master/0427-construct-quad-tree) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pratyush-48/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2906-construct-product-matrix](https://github.com/Pratyush-48/Leetcode/tree/master/2906-construct-product-matrix) |
