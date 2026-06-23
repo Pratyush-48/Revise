@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/Pratyush-48/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Pratyush-48/Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2707-extra-characters-in-a-string](https://github.com/Pratyush-48/Leetcode/tree/master/2707-extra-characters-in-a-string) |
+| [2719-count-of-integers](https://github.com/Pratyush-48/Leetcode/tree/master/2719-count-of-integers) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Pratyush-48/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pratyush-48/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Pratyush-48/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/Pratyush-48/Leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2463-minimum-total-distance-traveled](https://github.com/Pratyush-48/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2707-extra-characters-in-a-string](https://github.com/Pratyush-48/Leetcode/tree/master/2707-extra-characters-in-a-string) |
+| [2719-count-of-integers](https://github.com/Pratyush-48/Leetcode/tree/master/2719-count-of-integers) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Pratyush-48/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Pratyush-48/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Pratyush-48/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Pratyush-48/Leetcode/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Pratyush-48/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Pratyush-48/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2719-count-of-integers](https://github.com/Pratyush-48/Leetcode/tree/master/2719-count-of-integers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pratyush-48/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pratyush-48/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pratyush-48/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
