@@ -8,7 +8,7 @@ public:
             for(int j=i;j<n;j++){
                 if(nums[j]==target) count++;
                 int l = j-i+1;
-                if(count > floor(l/2.0)) result++;
+                if(count > (l/2)) result++;
             }
         }
         return result;
