@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Pratyush-48/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Pratyush-48/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Pratyush-48/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Pratyush-48/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pratyush-48/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Pratyush-48/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Pratyush-48/Leetcode/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Pratyush-48/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Pratyush-48/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pratyush-48/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Pratyush-48/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Pratyush-48/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-extra-characters-in-a-string](https://github.com/Pratyush-48/Leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pratyush-48/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Pratyush-48/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Pratyush-48/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pratyush-48/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pratyush-48/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Pratyush-48/Leetcode/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
